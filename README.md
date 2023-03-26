@@ -16,7 +16,7 @@ E' inoltre indispensabile per la simulazione locale l’installazione di Ganache
 L'interfaccia web consente di simulare le funzioni contenute nel contratto SampleCoin.sol. È possibile creare nuovi coin utilizzando la funzione "mint" e inviare coin ad altri indirizzi tramite la funzione "send".
 
 ## Note aggiuntive
-Questo elaborato è stato creato a scopo dimostrativo e non è destinato all'utilizzo in un ambiente di produzione. Inoltre, per l'esecuzione di questo elaborato è necessario avere una connessione Internet funzionante e una chiave API di Infura per la connessione alla rete Ethereum Testnet.
+Questo elaborato è stato creato a scopo dimostrativo e non è destinato all'utilizzo in un ambiente di produzione.
 
 ## Autori
 - Mattia Cardillo
